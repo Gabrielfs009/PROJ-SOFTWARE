@@ -2,11 +2,11 @@
 
 Aqui será colocado a especificação do caso de uso Gerenciar produtos
 
-Ator dessa Especificação: 
+##Ator dessa Especificação: 
 
 Gabriel Forster Souza - 10409702
 
-Grupo:
+##Grupo:
 
 Gabriel Forster Souza - 10409702
 
