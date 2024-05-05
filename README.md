@@ -2,7 +2,7 @@
 
 **👋 Olá, Seja Bem-Vindo(a)!**
 
-**Aqui será colocado a especificação do caso de uso Gerenciar produtos**
+**Aqui será colocado a especificação do caso de uso Finalizar Compra**
 
 ## **Ator Dessa Especificação:**
 
